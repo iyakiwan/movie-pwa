@@ -1,0 +1,8 @@
+const CONFIG = {
+  KEY: '7b4a111dae6877683996f90a8ea25891',
+  BASE_URL: 'https://api.themoviedb.org/3/',
+  BASE_IMAGE_URL: 'https://image.tmdb.org/t/p/w500/',
+  DEFAULT_LANGUAGE: 'en-us',
+};
+
+export default CONFIG;
